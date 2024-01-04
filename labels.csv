@@ -1,0 +1,39 @@
+id,primary relationship,labels,study category
+S3,style ⇒ comprehension,"identifier length, comprehension speed, fault location",identifier naming styles (length and semantics) --> code comprehension
+S24,style ⇒ comprehension,"naming styles (letters/abbr/full), comprehension, memory","identifier naming styles (single letters, abbreviations, full words) --> code comprehension"
+S26,style ⇒ comprehension,"naming styles (letters), comprehension",single letter variables --> code comprehension
+S28,style ⇒ comprehension,"naming styles (short/long), comprehension",identifier naming styles (short vs. descriptive compound) --> code comprehension
+S29,style ⇒ comprehension,"naming style (casing), comprehension",identifier casing style (camelCase vs. underscore) --> code comprehension
+S31,style ⇒ comprehension,"naming styles (abbr/full), comments, comprehension",comments and identifier naming styles --> code comprehension
+S34,length ⇒ comprehension,"code size, identifier length, comments, comprehension","code size, identifier length, and code comments --> code comprehension"
+S38,quality ⇒ comprehension,"NIRS, eye tracking, identifier naming, smells & antipatterns","fNIRS and eye tracking data <--> code comprehension (RQ1)
+poor source code lexicon and readability --> code comprehension (RQ2-8)"
+S46,style ⇒ comprehension,"naming style (letter/full), comprehension, parameter names, variable names",local variable names and parameter names --> code comprehension
+S65,style ⇒ comprehension,"identifier styles (letters/abbr/full), experience, domain familiarity","RQ1: contextual information --> code comprehension; RQ2: identifier term characteristics (full English words, acronyms, abbreviations) --> code comprehension; RQ3: participant background --> code comprehension"
+S66,length ⇒ comprehension,"identifier length, memory, code familiarity",identifier length and familiarity --> code comprehension
+S73,style ⇒ comprehension,"naming style (mnemonic/letters), comments",mnemonic variable names --> code comprehension (exp. 1)
+S76,style ⇒ comprehension,"identifier styles (letters/full), experience, comprehension, bottom up",variable and procedure naming x expertise --> code comprehension
+S93,style ⇒ comprehension,"identifier styles (descriptive/non-descriptive), comments, documentation, comprehension","naming styles, documentation --> code comprehension"
+S94,style ⇒ comprehension,"identifier styles (casing), comprehension",naming styles --> code comprehension
+S95,style ⇒ performance,"identifier styles (abbr/full), performance, fault location",identifier naming styles --> ability to identify and fix faults
+S96,style ⇒ comprehension,"identifier styles (descriptive/non-descriptive), code structure",use of intermediate variables --> code comprehension
+S97,style ⇒ comprehension,"identifier styles (casing), gender, comprehension","identifier casing style, gender --> code comprehension"
+S99,quality ⇒ comprehension,"identifer quality, lexicon bad smells, fNIRS","fNIRS and eye tracking data <--> code comprehension
+poor source code lexicon and readability --> code comprehension"
+S109,style ⇒ performance,"naming styles (abbr/full), fault location, performance",identifier naming styles (abbr/full) --> fault fixing performance
+S98,quality ⇔ fault proneness,"identifier quality, fault proneness",identifier dispersion <--> code comprehension
+S100,quality ⇔ code quality,"identifier quality, fault proneness",identifier quality (guidelines) <--> fault proneness
+S101,quality ⇔ code quality,"identifier quality, code quality",identifier quality (guidelines) <--> code quality
+S102,quality ⇔ concept location,"identifier quality, concept location",identifier quality (LBS) --> concept location
+S103,length ⇔ fault proneness,"identifier length, fault proneness",identifier length <--> fault proneness
+S104,quality ⇔ fault proneness,"identifier quality, fault proneness",identifier quality (WCMR) <--> fault proneness
+S105,quality ⇔ fault prediction,identifier quality fault prediction,identifier quality (LBS) --> fault prediction
+S106,quality ⇔ fault proneness,"identifier quality, fault proneness","identifier entropy, identifier context-coverage <--> fault proneness"
+S108,quality ⇔ fault prediction,"language processing, fault proneness, information retrieval",QALP --> fault prediction
+S110,conceptual cohesion ⇔ fault prediction,"conceptual cohesion, fault prediction",conceptual cohesion <--> fault prediction
+S111,quality ⇔ fault proneness,"identifier quality, fault proneness",quality ⇔ fault proneness
+S112,local variables with compound names ⇔ fault proneness,"code structure, naming style, fault proneness","local variables with compound names <-> fault proneness
+comments with a method body <-> fault proneness"
+S113,quality ⇔ fault proneness,"identifier quality, fault proneness, method names",quality ⇔ fault proneness
+S114,quality ⇔ fault proneness,"identifier quality, fault proneness",quality ⇔ fault proneness
+S115,word count ⇔ fault proneness,"identifier word count, fault proneness",identifier word count ⇔ fault proneness

@@ -1,0 +1,69 @@
+ID,,type,factor design,allocation design,year,measures,randomization of tasks or counterbalancing,experience- or skill-based balancing,language,sample,size,# projects,venue,min,max,avg,sample size (partially) unclear,contains students,contains professionals,demographics unclear
+S3,H1,experiment,one-at-a-time,within-subject,2019,time,yes,no,C#,-,-,-,journal,72,72,72,0,0,1,0
+S24,H2,experiment,one-at-a-time,within-subject,2007,"corr, subj",yes,no,"C, C++, Java",-,-,-,journal,128,128,128,0,1,1,0
+S26,H3,experiment,one-at-a-time,between-subject,2017,"corr, time",no,no,Java,-,-,-,conference,56,56,56,0,1,0,0
+S28,H4,experiment,one-at-a-time,within-subject,2018,"corr, time",yes,no,Java,-,-,-,conference,88,88,88,0,1,1,0
+S29,H5,experiment,one-at-a-time,within-subject,2013,"phys, corr, time",no,no,Java,-,-,-,journal,34,34,34,0,1,1,0
+S31,H6,experiment,factorial,between-subject,1996,"corr, subj",no,no,Modula-2,-,-,-,journal,89,89,89,0,1,0,0
+S34,H7,experiment,factorial,between-subject,2018,"corr, subj",no,no,Python,-,-,-,journal,38,38,38,0,1,0,0
+S38,H8,experiment,factorial,within-subject,2019,"phys, corr, subj",yes,no,Java,-,-,-,journal,25,25,25,0,1,0,0
+S46,H9,experiment,factorial,between-subject,2017,"time, subj",no,no,Java,-,-,-,conference,9,9,9,0,0,1,0
+S65,H10,experiment,one-at-a-time,within-subject,2014,corr,yes,no,C,-,-,-,journal,21,42,31.5,0,1,0,0
+S66,H11,experiment,factorial,within-subject,2009,corr,yes,no,Java,-,-,-,journal,158,158,158,0,1,1,0
+S73,H12,experiment,factorial,within-subject,1979,corr,yes,no,Fortran,-,-,-,journal,36,36,36,0,0,1,0
+S76,H13,experiment,one-at-a-time,within-subject,1994,"phys, corr, subj",yes,no,Pascal,-,-,-,journal,18,43,30.5,0,1,0,0
+S93,H14,experiment,factorial,within-subject,2005,corr,yes,no,J#,-,-,-,conference,11,11,11,0,1,0,0
+S94,H15,experiment,one-at-a-time,within-subject,2009,"corr, time",yes,no,pseudocode,-,-,-,conference,135,135,135,0,1,0,0
+S95,H16,experiment,one-at-a-time,within-subject,2013,"corr, time",yes,yes,C,-,-,-,conference,49,49,49,0,1,0,0
+S96,H17,experiment,one-at-a-time,between-subject,2021,"corr, time",yes,no,Python,-,-,-,conference,93,113,103,0,1,0,0
+S97,H18,experiment,one-at-a-time,between-subject,2012,"phys, corr, time",yes,no,Java,-,-,-,conference,24,24,24,0,1,0,0
+S99,H19,experiment,factorial,within-subject,2018,"phys, corr, subj",yes,no,Java,-,-,-,conference,15,15,15,0,1,0,1
+S109,H20,experiment,one-at-a-time,within-subject,2017,"corr, time",yes,yes,"C, Java",-,-,-,journal,16,19,17.5,0,1,1,0
+S98,C1,code analysis,-,-,2010,,-,-,Java,"Rhino
+ArgoUML",100k+,2,,,,,,,,
+S100,C2,code analysis,-,-,2009,,-,-,Java,"Ant
+Hibernate",100k+,8,,,,,,,,
+S101,C3,code analysis,-,-,2010,,-,-,Java,"Ant
+Hibernate",100k+,8,,,,,,,,
+S102,C4,code analysis,-,-,2011,,-,-,C++,"FileZilla
+OpenOffice",100k+,2,,,,,,,,
+S103,C5,code analysis,-,-,2012,,-,-,Java,"Eclipse
+Netbeans",1m+,2,,,,,,,,
+S104,C6,code analysis,-,-,2017,,-,-,Java,"Hibernate
+JEdit",100k+,14,,,,,,,,
+S105,C7,code analysis,-,-,2012,,-,-,Java,"ArgoUML
+Rhino
+Eclipse",1m+,3,,,,,,,,
+S106,C8,code analysis,-,-,2010,,-,-,Java,"ArgoUML
+Rhino",100k+,2,,,,,,,,
+S108,C9,code analysis,-,-,2007,,-,-,C++/Java,Mozilla,1m+,1,,,,,,,,
+S110,C10,code analysis,-,-,2008,,-,-,C++,"TortoiseCVS
+WinMerge
+Mozilla",1m+,3,,,,,,,,
+S111,C11,code analysis,-,-,2018,,-,-,Java,"Apache Tomcat
+BIRT
+Eclipse JDT UI
+Eclipse Platform UI
+SWT",1m+,5,,,,,,,,
+S112,C12,code analysis,-,-,2016,,-,-,Java,"IP-Scanner
+Checkstyle
+eXo
+FreeMind
+ARM
+Hibernate
+ProjectLibre
+PMD
+SQuirreL",1m+,9,,,,,,,,
+S113,C13,code analysis,-,-,2017,,-,-,Java,"Eclipse Checkstyle Plugin
+FreeMind
+Dr Java
+PMD
+react-native
+retrofit
+Universal Image Loader
+RxJava ",100k+,8,,,,,,,,
+S114,C14,code analysis,-,-,2017,,-,-,Java,"Ant
+ArgoUML
+Hibernate",1m+,3,,,,,,,,
+S115,C15,code analysis,-,-,2015,,-,-,Java,"Ant
+Apache Xalan",100k+,2,,,,,,,,
